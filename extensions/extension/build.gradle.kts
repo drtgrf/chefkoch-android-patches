@@ -3,5 +3,5 @@ extension {
 }
 
 android {
-    namespace = "app.template.extension"
+    namespace = "com.github.drtgrf.chefkochpatches.extension"
 }

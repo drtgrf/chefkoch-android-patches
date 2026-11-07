@@ -6,6 +6,19 @@ import app.morphe.patcher.patch.Compatibility
 import app.morphe.patcher.patch.SupportedAbi
 
 object Constants {
+    val COMPATIBILITY_CHEFKOCH = Compatibility(
+        name = "Chefkoch",
+        packageName = "de.pixelhouse",
+        apkFileType = ApkFileType.XAPK,
+        appIconColor = 0xE85D24,
+            targets = listOf(
+            AppTarget(
+                version = "8.6.0",
+                isExperimental = true
+            )
+        )
+    )
+
     val COMPATIBILITY_EXAMPLE = Compatibility(
         name = "XYZ app", // App name as it appears in the Android launcher.
         packageName = "com.example.app",
