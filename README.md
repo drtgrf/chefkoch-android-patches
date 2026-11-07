@@ -22,10 +22,23 @@ You can also use the button below:
 ## 🩹 Available patches
 
 <!-- PATCHES_START EXPANDED -->
+> **[v1.0.0-dev.1](https://github.com/drtgrf/chefkoch-android-patches/releases/tag/v1.0.0-dev.1)**&nbsp;&nbsp;•&nbsp;&nbsp;`dev`&nbsp;&nbsp;•&nbsp;&nbsp;1 patches total
+<details open>
+<summary>📦 Chefkoch&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
+<br>
 
-<!-- Do not modify this section manually. The patch list is generated during releases. -->
+**Package name:** `de.pixelhouse`
 
-#### The available patches will be listed here after the first release.
+**🎯 Supported versions:**
+
+| 🧪&nbsp;8.6.0 |
+| :---: |
+
+| 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
+|----------|----------------|-----------|
+| [Remove Banner Ads](#remove-banner-ads) | Removes banner advertisements from the Chefkoch app. |  |
+
+</details>
 
 <!-- PATCHES_END -->
 
