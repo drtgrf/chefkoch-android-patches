@@ -21,3 +21,18 @@ object CkAdmoBannerFingerprint : Fingerprint(
         "I"
     )
 )
+
+object RecipeDetailContentFingerprint : Fingerprint(
+    definingClass = "Lde/pixelhouse/chefkoch/app/screen/recipedetail/RecipeDetailScreenKt;",
+    name = "RdsLoadedContent_nbWgWpA\$lambda\$0\$0",
+    returnType = "Lkotlin/Unit;",
+    parameters = listOf(
+        "Lkotlinx/collections/immutable/ImmutableList;",
+        "Lde/chefkoch/component/ad/taboola/TaboolaWrapper;",
+        "Lkotlinx/collections/immutable/ImmutableList;",
+        "F",
+        "Lde/pixelhouse/chefkoch/app/screen/recipedetail/RdsLoadedContentActions;",
+        "Z",
+        "Landroidx/compose/foundation/lazy/LazyListScope;"
+    )
+)
