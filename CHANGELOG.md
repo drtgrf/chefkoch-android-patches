@@ -1,3 +1,9 @@
+## [1.0.1](https://github.com/drtgrf/chefkoch-android-patches/compare/v1.0.0...v1.0.1) (2026-11-08)
+
+### 🐛 Bug Fixes
+
+* disable automatic release backmerge ([3c7608d](https://github.com/drtgrf/chefkoch-android-patches/commit/3c7608da12a9cb00acd41c83ee9dd23bed2dd927))
+
 ## [1.0.1-dev.1](https://github.com/drtgrf/chefkoch-android-patches/compare/v1.0.0...v1.0.1-dev.1) (2026-11-08)
 
 ### 🐛 Bug Fixes
