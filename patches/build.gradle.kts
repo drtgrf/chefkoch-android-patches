@@ -1,14 +1,13 @@
-group = "app.template"
+group = "com.github.drtgrf.chefkochpatches"
 
 patches {
-    // TODO: Update this section with your project details.
     about {
-        name = "UserXYZ Patches"
-        description = "Patches for apps I like"
-        source = "git@github.com:UserXYZ/morphe-patches.git"
-        author = "Awesome dev"
-        contact = "na"
-        website = "na"
+        name = "Chefkoch Patches"
+        description = "Unofficial Morphe patches for the Chefkoch Android app"
+        source = "https://github.com/drtgrf/chefkoch-android-patches"
+        author = "drtgrf"
+        contact = "https://github.com/drtgrf"
+        website = "https://github.com/drtgrf/chefkoch-android-patches"
         license = "GPLv3"
     }
 }
