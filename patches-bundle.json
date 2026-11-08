@@ -1,7 +1,7 @@
 {
-  "created_at": "2026-11-08T00:04:37",
-  "description": "## [1.0.0-dev.2](https://github.com/drtgrf/chefkoch-android-patches/compare/v1.0.0-dev.1...v1.0.0-dev.2) (2026-11-08)\n\n### ✨ New Features\n\n* remove sponsored recommendations from recipe details ([f105620](https://github.com/drtgrf/chefkoch-android-patches/commit/f105620889c7613f51016ac92fcb5812021137bc))",
-  "download_url": "https://github.com/drtgrf/chefkoch-android-patches/releases/download/v1.0.0-dev.2/patches-1.0.0-dev.2.mpp",
+  "created_at": "2026-11-08T00:09:49",
+  "description": "## 1.0.0 (2026-11-08)\n\n### ✨ New Features\n\n* add initial Chefkoch banner ad removal patch ([701915b](https://github.com/drtgrf/chefkoch-android-patches/commit/701915bb6a9d497b3720ee0e786a99655f83a5ba))\n* remove sponsored recommendations from recipe details ([f105620](https://github.com/drtgrf/chefkoch-android-patches/commit/f105620889c7613f51016ac92fcb5812021137bc))",
+  "download_url": "https://github.com/drtgrf/chefkoch-android-patches/releases/download/v1.0.0/patches-1.0.0.mpp",
   "signature_download_url": "",
-  "version": "1.0.0-dev.2"
+  "version": "1.0.0"
 }
