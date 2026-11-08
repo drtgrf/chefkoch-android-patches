@@ -22,9 +22,9 @@ You can also use the button below:
 ## 🩹 Available patches
 
 <!-- PATCHES_START EXPANDED -->
-> **[v1.0.0-dev.1](https://github.com/drtgrf/chefkoch-android-patches/releases/tag/v1.0.0-dev.1)**&nbsp;&nbsp;•&nbsp;&nbsp;`dev`&nbsp;&nbsp;•&nbsp;&nbsp;1 patches total
+> **[v1.0.0-dev.2](https://github.com/drtgrf/chefkoch-android-patches/releases/tag/v1.0.0-dev.2)**&nbsp;&nbsp;•&nbsp;&nbsp;`dev`&nbsp;&nbsp;•&nbsp;&nbsp;2 patches total
 <details open>
-<summary>📦 Chefkoch&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
+<summary>📦 Chefkoch&nbsp;&nbsp;•&nbsp;&nbsp;2 patches</summary>
 <br>
 
 **Package name:** `de.pixelhouse`
@@ -37,6 +37,7 @@ You can also use the button below:
 | 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
 |----------|----------------|-----------|
 | [Remove Banner Ads](#remove-banner-ads) | Removes banner advertisements from the Chefkoch app. |  |
+| [Remove Sponsored Recommendations](#remove-sponsored-recommendations) | Removes the Taboola recommendation widget from recipe detail pages. |  |
 
 </details>
 
